@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  vertical-align: baseline;
 }
 
 html {
@@ -26,6 +27,10 @@ a {
   color: cyan;
 }
 
+section {
+  padding: 30px 10px;
+}
+
 a:hover {
   color: black;
   background-color: cyan;
@@ -42,10 +47,6 @@ a:hover {
   height: 100%;
   background-color: black;
   margin: 0 auto;
-}
-
-.content {
-  padding: 15px;
 }
 
 .text {
