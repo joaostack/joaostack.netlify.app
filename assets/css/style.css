@@ -31,6 +31,12 @@ section {
   padding: 30px 10px;
 }
 
+.audio {
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+}
+
 a:hover {
   color: black;
   background-color: cyan;
